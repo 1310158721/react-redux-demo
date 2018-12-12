@@ -1,0 +1,31 @@
+.additem {
+	margin: 20px;
+}
+
+.additem input {
+    width: 200px;
+    height: 40px;
+    vertical-align: top;
+    border: 1px black solid;
+    outline: none;
+    position: relative;
+    font-size: 16px;
+    text-indent: 5px;
+}
+
+.additem button {
+	width: 100px;
+	height: 42px;
+	border: 1px black solid;
+	position: relative;
+	font-size: 28px;
+	outline: none;
+    vertical-align: top;
+    margin-left: 20px;
+    cursor: pointer;
+    font-weight: 300;
+}
+
+.additem button:hover {
+	color: blue;
+}
